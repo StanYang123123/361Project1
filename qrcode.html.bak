@@ -24,7 +24,7 @@
 	<h3>Use QR Code to Pay</h3>
 	<p>I belive that most of you heard about Alibaba or Tencent. This two Company is the first two company to lead this trend.</p>
 	<img src="asset/qrcode_pay.jpg" alt= "QR Code Pay for a Coffee">
-	<li>Here is some data about it.</li>
+	<h5>Here is some data about it.</h5>
 		<ol>
 			<li>China Official Daily: More than 90% payment in China is completed via QR Code.</li>
 			<li>Consulting Asso.:QR Code Payment in 2020Q4 is over RMB 1000 Billion</li>
@@ -32,14 +32,14 @@
 		</ol>
 	<h3>Use QR Code as e-Ticket</h3>
 	<img src="asset/qrcode_eticket.jpg" alt= "QR Code as Bording Pass">
-	<li>Here is some Comments.</li>
+	<h5>Here is some Comments.</h5>
 		<ol>
 			<li>Flight Passengers: "It is easier to carry and manage e-Ticket by QR Code".</li>
 			<li>Football match Audience: "Fast and safe".</li>
 		</ol>	
 	<h3>Use QR Code against Covid-19</h3>
 	<img src="asset/qrcode_health.jpeg" alt= "Use QR Code to record attendence">
-	<li>How China does.</li>
+	<h5>How China does.</h5>
 		<ol>	
 			<li>People are asked to show QR Code to record their journey when in Pubilc.</li>
 			<li>Close with the Postive will get a Red QR Code.</li>
